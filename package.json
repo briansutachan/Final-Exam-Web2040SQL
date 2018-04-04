@@ -1,0 +1,17 @@
+{
+  "name": "final-exam-2040sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Brian Sutachan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.5",
+    "mongoose": "^5.0.12"
+  }
+}
